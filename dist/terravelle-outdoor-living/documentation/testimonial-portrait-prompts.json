@@ -1,0 +1,26 @@
+[
+    {
+        "id": "maya",
+        "subject": "Friendly woman in her thirties, warm natural smile",
+        "tool": "built-in image_gen",
+        "image": "assets/images/testimonials/maya.webp",
+        "source": "C:\\Users\\Dell\\.codex\\generated_images\\01a12156-67bb-7b32-81c0-ac4b07847437\\exec-e77ac20f-7031-4b80-ae1a-9c0543d95b71.png",
+        "prompt": "Photorealistic editorial headshot for an illustrative customer testimonial: Friendly woman in her thirties, warm natural smile. Head and shoulders centered in square composition, neutral warm beige backdrop, soft natural daylight, realistic skin and natural clothing, premium candid portrait. Faces fully visible with room for a circular crop. No text, logos, watermark."
+    },
+    {
+        "id": "daniel-emma",
+        "subject": "Friendly couple in their thirties, both faces close together and clearly visible",
+        "tool": "built-in image_gen",
+        "image": "assets/images/testimonials/daniel-emma.webp",
+        "source": "C:\\Users\\Dell\\.codex\\generated_images\\01a12156-67bb-7b32-81c0-ac4b07847437\\exec-3fef2e1a-329f-41a2-9295-5e226854733d.png",
+        "prompt": "Photorealistic editorial headshot for an illustrative customer testimonial: Friendly couple in their thirties, both faces close together and clearly visible. Head and shoulders centered in square composition, neutral warm beige backdrop, soft natural daylight, realistic skin and natural clothing, premium candid portrait. Faces fully visible with room for a circular crop. No text, logos, watermark."
+    },
+    {
+        "id": "jordan",
+        "subject": "Friendly man in his forties, warm natural smile",
+        "tool": "built-in image_gen",
+        "image": "assets/images/testimonials/jordan.webp",
+        "source": "C:\\Users\\Dell\\.codex\\generated_images\\01a12156-67bb-7b32-81c0-ac4b07847437\\exec-e92e77b4-9021-41d4-b9f6-f3a34422e157.png",
+        "prompt": "Photorealistic editorial headshot for an illustrative customer testimonial: Friendly man in his forties, warm natural smile. Head and shoulders centered in square composition, neutral warm beige backdrop, soft natural daylight, realistic skin and natural clothing, premium candid portrait. Faces fully visible with room for a circular crop. No text, logos, watermark."
+    }
+]

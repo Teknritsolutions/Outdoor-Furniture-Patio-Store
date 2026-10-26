@@ -1,0 +1,116 @@
+[
+  {
+    "file": "404.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "404.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "about.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "about.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "bulk-orders.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "bulk-orders.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "coming-soon.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "coming-soon.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "contact.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "contact.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "index-2.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "index-2.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "index.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "index.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "inspiration-gallery.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "inspiration-gallery.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "materials-guide.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "materials-guide.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "product-details.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "product-details.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "products.html",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "file": "products.html",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "file": "gallery open dialog",
+    "violations": []
+  }
+]

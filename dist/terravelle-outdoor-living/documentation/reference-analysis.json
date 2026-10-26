@@ -1,0 +1,587 @@
+[
+  {
+    "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/index.html",
+    "status": 200,
+    "title": "Local Farm and CSA | Pure Fields - Organic Produce",
+    "navigation": [
+      "eco\n                    \n                        Pure Fields",
+      "Home expand_more",
+      "Home Page 1",
+      "Home Page 2",
+      "About Us",
+      "Products",
+      "Blog",
+      "Contact Us",
+      "Dashboard expand_more",
+      "Admin Dashboard",
+      "User Dashboard",
+      "shopping_cart\n                        \n                            Cart",
+      "Login",
+      "Sign Up",
+      "Home expand_more",
+      "Home Page 1",
+      "Home Page 2",
+      "About Us",
+      "Products",
+      "Blog",
+      "Contact Us",
+      "Dashboard expand_more",
+      "Admin Dashboard",
+      "User Dashboard",
+      "Cart",
+      "Login",
+      "Sign Up"
+    ],
+    "headings": [
+      "Weekly fresh produce from\n                    \n                    local farms to your table",
+      "A local CSA built for real weekly routines.",
+      "How the Pure Fields membership works each week.",
+      "Flexible CSA plans and seasonal add-ons.",
+      "A simple subscription flow from plan selection to weekly pickup.",
+      "Short reads for members who want better meals and better timing.",
+      "What members say after the first few deliveries."
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "size": "60px",
+        "lineHeight": "72px"
+      },
+      {
+        "tag": "P",
+        "size": "20px",
+        "lineHeight": "32px"
+      },
+      {
+        "tag": "H2",
+        "size": "51.2px",
+        "lineHeight": "55.296px"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "28.8px"
+      },
+      {
+        "tag": "H2",
+        "size": "51.2px",
+        "lineHeight": "55.296px"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "28.8px"
+      },
+      {
+        "tag": "H2",
+        "size": "51.2px",
+        "lineHeight": "55.296px"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "30px"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "28.8px"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "28.8px"
+      },
+      {
+        "tag": "P",
+        "size": "12.48px",
+        "lineHeight": "19.968px"
+      },
+      {
+        "tag": "H2",
+        "size": "51.2px",
+        "lineHeight": "55.296px"
+      }
+    ],
+    "containers": [
+      {
+        "width": 1380,
+        "padding": "20px"
+      },
+      {
+        "width": 1380,
+        "padding": "20px"
+      },
+      {
+        "width": 1272,
+        "padding": "20px"
+      },
+      {
+        "width": 1272,
+        "padding": "20px"
+      },
+      {
+        "width": 1380,
+        "padding": "20px"
+      }
+    ]
+  },
+  {
+    "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/index.html",
+    "status": 200,
+    "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+    "navigation": [
+      "IMPERIA Events",
+      "Home page-1",
+      "Home page-2",
+      "About",
+      "Services",
+      "Pricing",
+      "Contact",
+      "Client Dashboard",
+      "Admin Dashboard",
+      "Login",
+      "Book Now",
+      "Login",
+      "Book Now"
+    ],
+    "headings": [
+      "Crafting Unforgettable Luxury Events",
+      "Luxury Planning, Seamlessly Curated",
+      "Celebrations Crafted with Vision",
+      "Your Celebration, Thoughtfully Crafted",
+      "Designing Experiences, Not Just Events",
+      "Luxury Collections, Tailored to Your Vision",
+      "Every Celebration, A Lasting Memory",
+      "Let’s Create Something Extraordinary"
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "size": "80px",
+        "lineHeight": "88px"
+      },
+      {
+        "tag": "P",
+        "size": "23.2px",
+        "lineHeight": "37.12px"
+      },
+      {
+        "tag": "P",
+        "size": "11.2px",
+        "lineHeight": "17.92px"
+      },
+      {
+        "tag": "H2",
+        "size": "51.2px",
+        "lineHeight": "81.92px"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "25.6px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "11.2px",
+        "lineHeight": "17.92px"
+      },
+      {
+        "tag": "H2",
+        "size": "51.2px",
+        "lineHeight": "81.92px"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "25.6px"
+      }
+    ],
+    "containers": [
+      {
+        "width": 1408,
+        "padding": "0px"
+      },
+      {
+        "width": 760,
+        "padding": "0px"
+      },
+      {
+        "width": 1200,
+        "padding": "0px"
+      },
+      {
+        "width": 1200,
+        "padding": "0px"
+      },
+      {
+        "width": 1200,
+        "padding": "0px"
+      }
+    ]
+  },
+  {
+    "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/index.html",
+    "status": 200,
+    "title": "Local Indie Bookstore",
+    "navigation": [
+      "Inksire Books",
+      "Home",
+      "Home Page 1",
+      "Home Page 2",
+      "Book Services",
+      "Book Blog",
+      "About Bookshop",
+      "Contact",
+      "Dashboard",
+      "Admin Dashboard",
+      "User Dashboard",
+      "Login",
+      "Login"
+    ],
+    "headings": [
+      "Explore Stories From Independent Bookshops",
+      "Featured Books",
+      "Staff Picks",
+      "Browse Book Categories",
+      "What Our Readers Say",
+      "Bookstore Moments",
+      "Author Events",
+      "Subscribe to Our Newsletter"
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "size": "48px",
+        "lineHeight": "57.6px"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "25.6px"
+      },
+      {
+        "tag": "H2",
+        "size": "36px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "H2",
+        "size": "36px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "H2",
+        "size": "36px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "H2",
+        "size": "36px",
+        "lineHeight": "normal"
+      }
+    ],
+    "containers": [
+      {
+        "width": 1200,
+        "padding": "0px"
+      },
+      {
+        "width": 1200,
+        "padding": "0px"
+      },
+      {
+        "width": 1200,
+        "padding": "0px"
+      },
+      {
+        "width": 1149.140625,
+        "padding": "0px"
+      },
+      {
+        "width": 1200,
+        "padding": "0px"
+      }
+    ]
+  },
+  {
+    "url": "https://teknrit-maker.github.io/FoodTruck/Pages/menu.html",
+    "status": 200,
+    "title": "Food Truck",
+    "navigation": [
+      "StreetBite",
+      "Home",
+      "Home Page 1",
+      "Home Page 2",
+      "Menu",
+      "About",
+      "Blog",
+      "Truck Schedule",
+      "Catering",
+      "Book Our Truck",
+      "Login"
+    ],
+    "headings": [
+      "Explore Our Delicious Menu",
+      "Browse Our Menu",
+      "BBQ Chicken Signature Pizza",
+      "Craving Something Delicious?",
+      "Food Name"
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "size": "50px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "P",
+        "size": "18px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "H2",
+        "size": "38px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "normal"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      },
+      {
+        "tag": "P",
+        "size": "14px",
+        "lineHeight": "22.4px"
+      }
+    ],
+    "containers": [
+      {
+        "width": 1353.75,
+        "padding": "0px"
+      },
+      {
+        "width": 1353.75,
+        "padding": "0px"
+      },
+      {
+        "width": 1315.75,
+        "padding": "0px"
+      },
+      {
+        "width": 1315.75,
+        "padding": "0px"
+      },
+      {
+        "width": 1315.75,
+        "padding": "0px"
+      }
+    ]
+  },
+  {
+    "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/",
+    "status": 200,
+    "title": "Boutique Yarn - Premium Craft Supplies",
+    "navigation": [
+      "Boutique Yarn\n                  Craft Supply Studio",
+      "Home Page 1General",
+      "Home Page 2Niche",
+      "About Us",
+      "Products",
+      "Blog",
+      "Contact",
+      "Customer DashboardLibrary",
+      "Admin DashboardManage",
+      "",
+      "Login",
+      "Home Page 1",
+      "Home Page 2",
+      "About Us",
+      "Products",
+      "Blog",
+      "Customer Dashboard",
+      "Admin Dashboard",
+      "Contact",
+      "Login"
+    ],
+    "headings": [
+      "Design-led yarns for modern makers.",
+      "Atelier Picks",
+      "Signature Pattern Library",
+      "Crafted For Modern Makers",
+      "Loved By Yarn Makers",
+      "Pricing Built for Modern Studios",
+      "Latest From The Atelier",
+      "Start your next masterpiece with our premium yarn library."
+    ],
+    "typography": [
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "24px"
+      },
+      {
+        "tag": "P",
+        "size": "12px",
+        "lineHeight": "16px"
+      },
+      {
+        "tag": "P",
+        "size": "16.8px",
+        "lineHeight": "25.2px"
+      },
+      {
+        "tag": "H1",
+        "size": "60.96px",
+        "lineHeight": "71.9328px"
+      },
+      {
+        "tag": "P",
+        "size": "16.8px",
+        "lineHeight": "25.2px"
+      },
+      {
+        "tag": "P",
+        "size": "18px",
+        "lineHeight": "27px"
+      },
+      {
+        "tag": "P",
+        "size": "18px",
+        "lineHeight": "27px"
+      },
+      {
+        "tag": "P",
+        "size": "12px",
+        "lineHeight": "18px"
+      },
+      {
+        "tag": "H2",
+        "size": "44px",
+        "lineHeight": "51.92px"
+      },
+      {
+        "tag": "P",
+        "size": "18px",
+        "lineHeight": "27px"
+      },
+      {
+        "tag": "P",
+        "size": "18px",
+        "lineHeight": "27px"
+      },
+      {
+        "tag": "P",
+        "size": "16px",
+        "lineHeight": "19.2px"
+      }
+    ],
+    "containers": [
+      {
+        "width": 1280,
+        "padding": "32px"
+      },
+      {
+        "width": 1280,
+        "padding": "32px"
+      },
+      {
+        "width": 1280,
+        "padding": "32px"
+      },
+      {
+        "width": 1280,
+        "padding": "32px"
+      },
+      {
+        "width": 1280,
+        "padding": "32px"
+      }
+    ]
+  }
+]

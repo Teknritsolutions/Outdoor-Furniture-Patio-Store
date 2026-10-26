@@ -1,0 +1,62 @@
+[
+  {
+    "file": "index.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/404.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/about.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/bulk-orders.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/coming-soon.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/contact.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/index-2.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/index.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/inspiration-gallery.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/materials-guide.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/product-details.html",
+    "valid": true,
+    "messages": []
+  },
+  {
+    "file": "pages/products.html",
+    "valid": true,
+    "messages": []
+  }
+]

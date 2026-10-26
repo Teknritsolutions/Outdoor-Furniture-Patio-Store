@@ -1,0 +1,43 @@
+/* Balanced imagery and centered material guide headings. */
+body[data-page="materials-guide"] .section-heading {
+    max-width: 900px;
+    margin-inline: auto;
+    text-align: center;
+}
+body[data-page="materials-guide"] .editorial-image,
+body[data-page="materials-guide"] .material-feature > img,
+body[data-page="materials-guide"] .material-feature > div:first-child,
+body[data-page="materials-guide"] .iron-layout > img {
+    width: 100%;
+    max-width: 520px;
+    margin-inline: auto;
+}
+body[data-page="materials-guide"] .editorial-image img,
+body[data-page="materials-guide"] .material-feature > img,
+body[data-page="materials-guide"] .material-feature > div:first-child img,
+body[data-page="materials-guide"] .iron-layout > img {
+    aspect-ratio: 1.55;
+    max-height: 360px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+body[data-page="materials-guide"] .material-feature,
+body[data-page="materials-guide"] .iron-layout {
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+}
+body[data-page="materials-guide"] .section-actions {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+}
+body[data-page="materials-guide"] .section-actions .button {
+    border-radius: 4px;
+}
+@media (max-width: 767px) {
+    body[data-page="materials-guide"] .material-feature,
+    body[data-page="materials-guide"] .iron-layout {
+        grid-template-columns: 1fr;
+        gap: 28px;
+    }
+}

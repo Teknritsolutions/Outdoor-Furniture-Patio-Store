@@ -1,0 +1,60 @@
+/* Commercial service cards and a composed ordering process. */
+body[data-page="bulk-orders"] .form-panel {
+    max-width: none;
+    width: 100%;
+    border-radius: 12px;
+    padding: clamp(24px, 4vw, 48px);
+}
+body[data-page="bulk-orders"] .form-heading {
+    max-width: 760px;
+}
+body[data-page="bulk-orders"] .section-heading {
+    max-width: 900px;
+    margin-inline: auto;
+    text-align: center;
+}
+body[data-page="bulk-orders"] .benefit,
+body[data-page="bulk-orders"] .steps li {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--card);
+    padding: 30px 24px;
+    text-align: center;
+    box-shadow: 0 8px 28px rgb(41 36 31 / 4%);
+    transition: transform 200ms ease, box-shadow 200ms ease;
+}
+body[data-page="bulk-orders"] .benefit > .icon,
+body[data-page="bulk-orders"] .step-icon {
+    box-sizing: content-box;
+    width: 30px;
+    height: 30px;
+    padding: 18px;
+    margin: 0 auto 22px;
+    background: var(--soft);
+    color: var(--brand);
+    border: 1px solid var(--border);
+    border-radius: 50%;
+}
+body[data-page="bulk-orders"] .benefit p {
+    margin-bottom: 0;
+}
+body[data-page="bulk-orders"] .steps {
+    gap: 20px;
+}
+body[data-page="bulk-orders"] .steps span {
+    position: absolute;
+    top: 16px;
+    inset-inline-start: 18px;
+    font-family: var(--body);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 0;
+}
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+    body[data-page="bulk-orders"] .benefit:hover,
+    body[data-page="bulk-orders"] .steps li:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 16px 36px rgb(41 36 31 / 10%);
+    }
+}

@@ -1,0 +1,3765 @@
+{
+  "started": "2026-10-09T16:15:07.646Z",
+  "widths": [
+    320,
+    360,
+    375,
+    390,
+    420,
+    480,
+    640,
+    768,
+    820,
+    1024,
+    1280,
+    1440,
+    1920
+  ],
+  "pages": [
+    "404.html",
+    "about.html",
+    "bulk-orders.html",
+    "coming-soon.html",
+    "contact.html",
+    "index-2.html",
+    "index.html",
+    "inspiration-gallery.html",
+    "materials-guide.html",
+    "product-details.html",
+    "products.html"
+  ],
+  "checks": [
+    {
+      "name": "404.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "404.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "404.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "404.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "404.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "404.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "404.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "404.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "404.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "404.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "404.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "404.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "404.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "404.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "404.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "404.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "404.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "404.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "404.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "404.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "404.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "404.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "404.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "404.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "404.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "404.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "404.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "404.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "about.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "about.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "about.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "about.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "about.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "about.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "about.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "about.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "about.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "about.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "about.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "about.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "about.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "about.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "about.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "about.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "about.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "about.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "about.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "about.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "about.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "about.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "about.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "about.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "about.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "about.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "about.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "bulk-orders.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "bulk-orders.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "bulk-orders.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "bulk-orders.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "bulk-orders.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "bulk-orders.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "bulk-orders.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "bulk-orders.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "bulk-orders.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "bulk-orders.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "bulk-orders.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "bulk-orders.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "bulk-orders.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "bulk-orders.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "bulk-orders.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "bulk-orders.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "bulk-orders.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "bulk-orders.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "bulk-orders.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "bulk-orders.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "bulk-orders.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "bulk-orders.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "bulk-orders.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "bulk-orders.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "bulk-orders.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "bulk-orders.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "coming-soon.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "coming-soon.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "coming-soon.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "coming-soon.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "coming-soon.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "coming-soon.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "coming-soon.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "coming-soon.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "coming-soon.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "coming-soon.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "coming-soon.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "coming-soon.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "coming-soon.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "coming-soon.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "coming-soon.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "coming-soon.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "coming-soon.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "coming-soon.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "coming-soon.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "coming-soon.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "coming-soon.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "coming-soon.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "coming-soon.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "coming-soon.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "coming-soon.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "coming-soon.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "contact.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "contact.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "contact.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "contact.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "contact.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "contact.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "contact.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "contact.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "contact.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "contact.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "contact.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "contact.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "contact.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "contact.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "contact.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "contact.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "contact.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "contact.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "contact.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "contact.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "contact.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "contact.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "contact.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "contact.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "contact.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "contact.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "index-2.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "index-2.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "index-2.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "index-2.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "index-2.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "index-2.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "index-2.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "index-2.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "index-2.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "index-2.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "index-2.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "index-2.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "index-2.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "index-2.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "index-2.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "index-2.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "index-2.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "index-2.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "index-2.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "index-2.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "index-2.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "index-2.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "index-2.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "index-2.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "index-2.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "index-2.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "index.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "index.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "index.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "index.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "index.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "index.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "index.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "index.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "index.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "index.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "index.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "index.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "index.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "index.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "index.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "index.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "index.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "index.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "index.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "index.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "index.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "index.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "index.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "index.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "index.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "index.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "inspiration-gallery.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "inspiration-gallery.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "inspiration-gallery.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "inspiration-gallery.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "inspiration-gallery.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "inspiration-gallery.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "inspiration-gallery.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "inspiration-gallery.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "inspiration-gallery.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "inspiration-gallery.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "inspiration-gallery.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "inspiration-gallery.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "inspiration-gallery.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "inspiration-gallery.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "inspiration-gallery.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "materials-guide.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "materials-guide.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "materials-guide.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "materials-guide.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "materials-guide.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "materials-guide.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "materials-guide.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "materials-guide.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "materials-guide.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "materials-guide.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "materials-guide.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "materials-guide.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "materials-guide.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "materials-guide.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "materials-guide.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "materials-guide.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "materials-guide.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "materials-guide.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "materials-guide.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "materials-guide.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "materials-guide.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "materials-guide.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "materials-guide.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "materials-guide.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "materials-guide.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "materials-guide.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "materials-guide.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "product-details.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "product-details.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "product-details.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "product-details.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "product-details.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "product-details.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "product-details.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "product-details.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "product-details.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "product-details.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "product-details.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "product-details.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "product-details.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "product-details.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "product-details.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "product-details.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "product-details.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "product-details.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "product-details.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "product-details.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "product-details.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "product-details.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "product-details.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "product-details.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "product-details.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "product-details.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product-details.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "products.html light 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "products.html light 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "products.html light 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "products.html light 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "products.html light 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "products.html light 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "products.html light 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "products.html light 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "products.html light 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "products.html light 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "products.html light 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "products.html light 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "products.html light 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html light RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html section count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html one H1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html no duplicate IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 320px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":320,\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "products.html dark 320px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 360px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":360,\"doc\":360,\"width\":360}"
+    },
+    {
+      "name": "products.html dark 360px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 375px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":375,\"doc\":375,\"width\":375}"
+    },
+    {
+      "name": "products.html dark 375px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 390px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":390,\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "products.html dark 390px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 420px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":420,\"doc\":420,\"width\":420}"
+    },
+    {
+      "name": "products.html dark 420px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 480px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":480,\"doc\":480,\"width\":480}"
+    },
+    {
+      "name": "products.html dark 480px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 640px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":640,\"doc\":640,\"width\":640}"
+    },
+    {
+      "name": "products.html dark 640px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 768px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":768,\"doc\":768,\"width\":768}"
+    },
+    {
+      "name": "products.html dark 768px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 820px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":820,\"doc\":820,\"width\":820}"
+    },
+    {
+      "name": "products.html dark 820px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 1024px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1024,\"doc\":1024,\"width\":1024}"
+    },
+    {
+      "name": "products.html dark 1024px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 1280px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1280,\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "products.html dark 1280px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 1440px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1440,\"doc\":1440,\"width\":1440}"
+    },
+    {
+      "name": "products.html dark 1440px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark 1920px no horizontal overflow",
+      "passed": true,
+      "detail": "{\"body\":1920,\"doc\":1920,\"width\":1920}"
+    },
+    {
+      "name": "products.html dark 1920px header alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark RTL desktop no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "products.html dark RTL mobile no overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Home dropdown opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape closes dropdown",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Theme persists across pages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Category query selects three products",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Catalog empty state",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Price sorting works",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Name sorting works",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details solana-teak-lounge-chair",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions solana-teak-lounge-chair",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details arlo-aluminum-armchair",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions arlo-aluminum-armchair",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details cove-woven-garden-chair",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions cove-woven-garden-chair",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details sienna-six-seat-dining-set",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions sienna-six-seat-dining-set",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details linea-bistro-dining-set",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions linea-bistro-dining-set",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details porto-iron-dining-set",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions porto-iron-dining-set",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details drift-cotton-hammock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions drift-cotton-hammock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details dune-rope-hammock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions dune-rope-hammock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details haven-hammock-with-stand",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions haven-hammock-with-stand",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details riva-teak-sun-lounger",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions riva-teak-sun-lounger",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details aero-reclining-lounger",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions aero-reclining-lounger",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details isla-woven-chaise",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions isla-woven-chaise",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details luna-cantilever-umbrella",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions luna-cantilever-umbrella",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details sole-market-umbrella",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions sole-market-umbrella",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details vista-balcony-parasol",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions vista-balcony-parasol",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details aura-portable-lantern",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions aura-portable-lantern",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details ember-solar-path-lights",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions ember-solar-path-lights",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details halo-outdoor-wall-light",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions halo-outdoor-wall-light",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details forma-ceramic-planter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions forma-ceramic-planter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details terra-tall-clay-planter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions terra-tall-clay-planter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Details arc-fiberstone-bowl",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dimensions arc-fiberstone-bowl",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery filter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Lightbox opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Lightbox keyboard next",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Lightbox Escape closes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Lightbox restores focus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html empty form invalid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html honest demo submission",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html empty form invalid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contact.html honest demo submission",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html empty form invalid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bulk-orders.html honest demo submission",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html empty form invalid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "coming-soon.html honest demo submission",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html empty form invalid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index-2.html honest demo submission",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Past dates rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ accordion works",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No JavaScript exceptions",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "failures": [],
+  "finished": "2026-10-09T16:15:43.637Z"
+}

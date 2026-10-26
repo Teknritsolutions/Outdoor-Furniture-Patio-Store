@@ -1,0 +1,83 @@
+/* Gallery navigation and framed styling advice. */
+body[data-page="inspiration-gallery"] .section-heading {
+    margin-inline: auto;
+    max-width: 900px;
+    text-align: center;
+}
+body[data-page="inspiration-gallery"] .filters {
+    justify-content: center;
+}
+body[data-page="inspiration-gallery"] #gallery-count {
+    text-align: center;
+}
+body[data-page="inspiration-gallery"] .gallery-grid {
+    scroll-margin-block-start: 110px;
+}
+body[data-page="inspiration-gallery"] .gallery-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    overflow: hidden;
+    border-radius: 8px;
+}
+body[data-page="inspiration-gallery"] .gallery-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+body[data-page="inspiration-gallery"] .gallery-card > span {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    width: 100%;
+    gap: 16px;
+    padding: 20px;
+}
+body[data-page="inspiration-gallery"] .gallery-card strong {
+    line-height: 1.35;
+}
+body[data-page="inspiration-gallery"] .gallery-card small {
+    margin-top: auto;
+    gap: 12px;
+}
+@media (min-width: 480px) and (max-width: 1199px) {
+    body[data-page="inspiration-gallery"] .gallery-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 24px;
+    }
+    body[data-page="inspiration-gallery"] .gallery-card strong {
+        min-height: 2.7em;
+    }
+}
+body[data-page="inspiration-gallery"] .benefit {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 30px 24px;
+    text-align: center;
+    box-shadow: 0 8px 28px rgb(41 36 31 / 4%);
+    transition: transform 200ms ease, box-shadow 200ms ease;
+}
+body[data-page="inspiration-gallery"] .benefit > .icon {
+    box-sizing: content-box;
+    width: 30px;
+    height: 30px;
+    padding: 18px;
+    margin: 0 auto 22px;
+    background: var(--soft);
+    border: 1px solid var(--border);
+    border-radius: 50%;
+    color: var(--brand);
+}
+body[data-page="inspiration-gallery"] .benefit p {
+    margin-bottom: 0;
+}
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+    body[data-page="inspiration-gallery"] .benefit:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 16px 36px rgb(41 36 31 / 10%);
+    }
+}

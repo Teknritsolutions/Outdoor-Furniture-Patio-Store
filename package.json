@@ -1,0 +1,27 @@
+{
+  "name": "terravelle-outdoor-living",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/server.cjs",
+    "styles": "node scripts/styles.cjs",
+    "build": "node scripts/build.cjs && node scripts/refine.cjs && node scripts/styles.cjs",
+    "test": "node tests/audit.cjs",
+    "format": "node node_modules/prettier/bin/prettier.cjs --write pages/*.html assets/css/style.css assets/css/responsive.css assets/css/dark-mode.css assets/css/rtl.css assets/js/*.js scripts/*.cjs tests/*.cjs index.html",
+    "test:html": "node tests/html.cjs",
+    "test:accessibility": "node tests/accessibility.cjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.64.0",
+    "html-validate": "^11.16.2",
+    "lighthouse": "^13.5.0",
+    "prettier": "^3.9.9"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource/dm-serif-display": "^5.3.0",
+    "bootstrap": "^5.3.8",
+    "lucide-static": "^1.53.0"
+  }
+}

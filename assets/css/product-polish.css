@@ -1,0 +1,85 @@
+/* Product details: composed specifications, highlights, and care guide. */
+body[data-page="product-details"] .section-heading {
+    max-width: 900px;
+    margin-inline: auto;
+    text-align: center;
+}
+body[data-page="product-details"] .specifications > div,
+body[data-page="product-details"] .benefit {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--card);
+    padding: 30px 24px;
+    text-align: center;
+    box-shadow: 0 8px 28px rgb(41 36 31 / 4%);
+}
+body[data-page="product-details"] .specifications dt {
+    letter-spacing: 1.5px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+body[data-page="product-details"] .specifications dd {
+    font-family: var(--heading);
+    font-size: 22px;
+    color: var(--text);
+}
+body[data-page="product-details"] .benefit > .icon {
+    box-sizing: content-box;
+    width: 30px;
+    height: 30px;
+    padding: 18px;
+    margin: 0 auto 22px;
+    background: var(--soft);
+    border: 1px solid var(--border);
+    border-radius: 50%;
+    color: var(--brand);
+}
+body[data-page="product-details"] .benefit p {
+    margin-bottom: 0;
+}
+body[data-page="product-details"] .care-panel {
+    max-width: none;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 36px;
+    padding: 36px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: var(--card);
+    align-items: center;
+}
+.care-copy h3, .care-guide h3 {
+    color: var(--text);
+}
+.care-copy p:last-child {
+    margin-bottom: 0;
+}
+.care-guide {
+    padding: 28px;
+    background: var(--soft);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+}
+.care-guide > .icon {
+    width: 32px;
+    height: 32px;
+    color: var(--brand);
+    margin-bottom: 18px;
+}
+.care-guide .button {
+    width: 100%;
+    justify-content: space-between;
+    gap: 14px;
+    font-size: 14px;
+    padding: 14px 18px;
+    border-radius: 4px;
+}
+@media (max-width: 767px) {
+    body[data-page="product-details"] .care-panel {
+        grid-template-columns: 1fr;
+        padding: 22px;
+        gap: 24px;
+    }
+    .care-guide { padding: 22px; }
+}

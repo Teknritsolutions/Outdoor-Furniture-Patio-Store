@@ -1,0 +1,28 @@
+/* Curated dark palette, shared by every component */
+html[data-theme="dark"] {
+    --control-border: #918b84;
+    color-scheme: dark;
+    --bg: #17191b;
+    --soft: #222528;
+    --card: #292d30;
+    --text: #f4f0ea;
+    --muted: #c3bab0;
+    --brand: #d0a080;
+    --hover: #e2b598;
+    --accent: #c7a675;
+    --border: #414548;
+    --on-brand: #17191b;
+    --error: #ffb3aa;
+}
+html[data-theme="dark"] .brand img {
+    filter: brightness(0) invert(94%) sepia(8%) saturate(255%);
+}
+html[data-theme="dark"] .hero-full .button-outline {
+    color: #fff;
+}
+html[data-theme="dark"] .coming .button-outline {
+    color: #f4f0ea;
+}
+html[data-theme="light"] {
+    color-scheme: light;
+}

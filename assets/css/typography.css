@@ -1,0 +1,10 @@
+/* One paragraph scale throughout the website, matching editorial body copy. */
+:root {
+    --paragraph-size: 16px;
+    --paragraph-leading: 1.7;
+}
+body p:not(.eyebrow):not(.price),
+body blockquote {
+    font-size: var(--paragraph-size) !important;
+    line-height: var(--paragraph-leading) !important;
+}

@@ -1,0 +1,9 @@
+node_modules/
+tests/screenshots/
+tests/references/*.png
+tests/references/*.jpg
+assets/contact-sheet.jpg
+
+# Generated visual test captures
+**/tests/**/*.png
+**/tests/**/*.jpg

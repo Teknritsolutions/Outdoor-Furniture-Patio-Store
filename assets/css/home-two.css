@@ -1,0 +1,175 @@
+/* Balanced editorial panels and refined Home Page 2 components. */
+body[data-page="index-2"] .split:has(> .editorial-copy) {
+    align-items: stretch;
+    gap: 48px;
+}
+body[data-page="index-2"] .editorial-image {
+    position: relative;
+    min-height: 0;
+}
+body[data-page="index-2"] .editorial-image img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    aspect-ratio: auto;
+    object-fit: cover;
+}
+body[data-page="index-2"] .editorial-copy {
+    padding: 0;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+body[data-page="index-2"] .editorial-copy > * {
+    margin-block: 0;
+}
+body[data-page="index-2"] .editorial-copy > p:not(.eyebrow) {
+    text-align: justify;
+    text-align-last: start;
+}
+body[data-page="index-2"] .editorial-copy > .button {
+    margin-top: 0;
+}
+body[data-page="index-2"] .steps {
+    gap: 20px;
+}
+body[data-page="index-2"] .steps li {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 26px 24px;
+    box-shadow: 0 8px 24px #29241f06;
+}
+body[data-page="index-2"] .steps li > span:first-child {
+    font: 600 12px var(--body);
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+body[data-page="index-2"] .steps .step-icon {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: var(--soft);
+    border: 1px solid var(--border);
+    margin-bottom: 20px;
+}
+.step-icon .icon {
+    width: 26px;
+    height: 26px;
+}
+body[data-page="index-2"] .steps h3 {
+    min-height: 52px;
+    margin-bottom: 12px;
+}
+body[data-page="index-2"] .closing .split {
+    align-items: stretch;
+    gap: 28px;
+    row-gap: 0;
+}
+body[data-page="index-2"] .closing .split > div {
+    background: var(--card);
+    padding: 32px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    display: grid;
+    grid-row: span 5;
+    grid-template-rows: subgrid;
+    row-gap: 16px;
+}
+body[data-page="index-2"] .newsletter-visit {
+    align-items: start;
+    padding: 32px;
+}
+body[data-page="index-2"] .newsletter-visit h3 {
+    margin: 0;
+}
+body[data-page="index-2"] .newsletter-visit .button {
+    margin: 0;
+    grid-row: 3;
+    justify-self: start;
+    align-self: stretch;
+}
+body[data-page="index-2"] .closing .newsletter {
+    margin: 0;
+    display: contents;
+}
+body[data-page="index-2"] .closing .split > div > p {
+    margin: 0;
+    grid-row: 1;
+}
+body[data-page="index-2"] .closing .newsletter label {
+    grid-row: 2;
+    margin: 0;
+    align-self: end;
+}
+body[data-page="index-2"] .closing .newsletter .input-action {
+    grid-row: 3;
+    margin: 0;
+}
+body[data-page="index-2"] .closing .newsletter small,
+body[data-page="index-2"] .visit-note {
+    grid-row: 4;
+    color: var(--muted);
+    font-size: 13px;
+    line-height: 1.6;
+}
+body[data-page="index-2"] .closing .newsletter .form-status {
+    grid-row: 5;
+    margin: 0;
+}
+body[data-page="index-2"] .closing .newsletter .form-status:empty {
+    display: none;
+}
+body[data-page="index-2"] .newsletter-visit > p {
+    grid-row: 2 !important;
+}
+body[data-page="index-2"] .closing .newsletter small {
+    display: block;
+    line-height: 1.6;
+}
+body[data-page="index-2"] .closing .input-action {
+    align-items: stretch;
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+    body[data-page="index-2"] .newsletter-visit .button {
+        align-self: end;
+        min-height: 48px;
+        padding-block: 14px;
+    }
+}
+@media (max-width: 767px) {
+    body[data-page="index-2"] .editorial-image {
+        min-height: 0;
+    }
+    body[data-page="index-2"] .editorial-image img {
+        position: static;
+        height: 340px;
+    }
+    body[data-page="index-2"] .editorial-copy {
+        min-height: 0;
+    }
+    body[data-page="index-2"] .closing .split > div {
+        padding: 24px;
+        grid-row: auto;
+        grid-template-rows: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+    body[data-page="index-2"] .closing .split {
+        row-gap: 24px;
+    }
+    body[data-page="index-2"] .closing .newsletter {
+        display: block;
+        width: 100%;
+    }
+    body[data-page="index-2"] .newsletter-visit .button {
+        margin-top: 12px;
+    }
+}

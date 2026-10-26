@@ -1,0 +1,21 @@
+const { chromium } = require('@playwright/test');
+const assert = require('assert/strict');
+(async () => {
+    const browser = await chromium.launch();
+    const page = await browser.newPage({viewport: {width: 1440, height: 900}});
+    await page.goto('http://localhost:4173/pages/products.html');
+    const trigger = page.locator('#product-sort-trigger');
+    await trigger.click();
+    const option = page.locator('#product-sort-options [role="option"]').first();
+    assert.equal(await option.evaluate(el => getComputedStyle(el).backgroundColor), 'rgba(0, 0, 0, 0)');
+    await page.locator('#product-sort-options [role="option"]').nth(1).click();
+    assert.equal(await page.locator('#product-sort').inputValue(), 'price-asc');
+    await trigger.focus();
+    await page.keyboard.press('ArrowDown');
+    await page.keyboard.press('ArrowDown');
+    await page.keyboard.press('Enter');
+    assert.equal(await page.locator('#product-sort').inputValue(), 'price-desc');
+    assert.equal(await trigger.evaluate(el => getComputedStyle(el).outlineStyle), 'none');
+    await browser.close();
+    console.log('Neutral options, sorting, keyboard selection, and subtle focus passed.');
+})().catch(error => { console.error(error); process.exitCode = 1; });

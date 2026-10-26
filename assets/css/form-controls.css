@@ -1,0 +1,68 @@
+/* Quiet field focus and fully branded dropdown options. */
+input:focus, textarea:focus, select:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: var(--control-border);
+}
+.branded-select {
+    position: relative;
+}
+.branded-select .native-select {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    pointer-events: none;
+}
+.select-trigger {
+    width: 100%;
+    min-height: 48px;
+    padding: 12px 44px 12px 14px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--text);
+    font: inherit;
+    text-align: start;
+    position: relative;
+}
+.select-trigger::after {
+    content: "";
+    position: absolute;
+    inset-inline-end: 20px;
+    top: 45%;
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid var(--muted);
+    border-bottom: 2px solid var(--muted);
+    transform: rotate(45deg);
+}
+.select-trigger:focus {
+    outline: none;
+    border-color: var(--control-border);
+}
+.select-options {
+    position: absolute;
+    inset-inline: 0;
+    top: calc(100% + 6px);
+    z-index: 30;
+    padding: 6px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    box-shadow: 0 12px 30px rgb(41 36 31 / 12%);
+    max-height: 280px;
+    overflow-y: auto;
+}
+.select-options [role="option"] {
+    padding: 10px 12px;
+    color: var(--text);
+    cursor: pointer;
+}
+.select-options [role="option"]:hover,
+.select-options [role="option"]:focus {
+    background: var(--brand);
+    color: var(--on-brand);
+    outline: none;
+}
+html[dir="rtl"] .select-trigger {
+    padding-left: 44px;
+    padding-right: 14px;
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /pages/coming-soon.html
+# Configure your real sitemap origin using scripts/configure-seo.cjs.

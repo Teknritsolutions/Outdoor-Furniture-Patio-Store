@@ -1,0 +1,31 @@
+/* Activate with ?dir=rtl, document.documentElement.dir='rtl', or dir='rtl'. */
+[dir="rtl"] .hero-full .hero-image:after {
+    background: linear-gradient(270deg, rgba(20, 18, 15, 0.8), rgba(20, 18, 15, 0.18));
+}
+[dir="rtl"] .button .icon,
+[dir="rtl"] .text-link .icon,
+[dir="rtl"] .back-top .icon {
+    transform: scaleX(-1);
+}
+[dir="rtl"] .gallery-card,
+[dir="rtl"] table,
+[dir="rtl"] .newsletter {
+    text-align: start;
+}
+[dir="rtl"] input[type="email"],
+[dir="rtl"] input[type="tel"] {
+    direction: ltr;
+    text-align: end;
+}
+[dir="rtl"] .brand img {
+    transform: none;
+}
+[dir="rtl"] .lightbox-prev .icon,
+[dir="rtl"] .lightbox-next .icon {
+    transform: scaleX(-1);
+}
+@media (max-width: 767px) {
+    [dir="rtl"] .hero-full .hero-image:after {
+        background: #17120db3;
+    }
+}
