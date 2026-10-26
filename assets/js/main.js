@@ -91,7 +91,8 @@ window.TERRAVELLE_CONFIG = {
     const updateThemeLabel = () => {
         const dark = document.documentElement.dataset.theme === "dark";
         themeButton.setAttribute("aria-label", `Switch to ${dark ? "light" : "dark"} mode`);
-        themeButton.innerHTML = `<svg class="icon" aria-hidden="true"><use href="../assets/icons/lucide.svg#${dark ? "sun" : "moon"}"></use></svg>`;
+        const icons = new URL("../icons/lucide.svg", document.querySelector('script[src$="/main.js"]').src);
+        themeButton.innerHTML = `<svg class="icon" aria-hidden="true"><use href="${icons.href}#${dark ? "sun" : "moon"}"></use></svg>`;
     };
     themeButton.addEventListener("click", () => {
         const theme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";

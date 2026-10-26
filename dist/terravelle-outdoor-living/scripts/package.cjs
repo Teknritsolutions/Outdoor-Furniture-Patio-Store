@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+require("./sync-home.cjs");
 const destination = path.resolve("dist");
 fs.mkdirSync(destination, { recursive: true });
 const output = path.join(destination, "terravelle-outdoor-living");

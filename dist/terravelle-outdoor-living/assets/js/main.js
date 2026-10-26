@@ -10,6 +10,21 @@ window.TERRAVELLE_CONFIG = {
     const dropdown = document.querySelector("#home-menu");
     const menu = document.querySelector("#primary-nav");
     const menuToggle = document.querySelector(".menu-toggle");
+    const compactNavigation = window.matchMedia("(max-width: 1199px)");
+    const updateMenuHeight = () => {
+        const bottom = document.querySelector(".site-header").getBoundingClientRect().bottom;
+        menu.style.setProperty("--nav-top", `${Math.max(0, bottom)}px`);
+    };
+    const setMenu = (open) => {
+        updateMenuHeight();
+        menu.classList.toggle("open", open);
+        menuToggle.setAttribute("aria-expanded", String(open));
+        menuToggle.setAttribute("aria-label", open ? "Close navigation" : "Open navigation");
+        if (!open) setDropdown(false);
+    };
+    window.addEventListener("resize", updateMenuHeight);
+    window.addEventListener("scroll", updateMenuHeight, { passive: true });
+    compactNavigation.addEventListener("change", () => setMenu(false));
     const setDropdown = (open) => {
         dropdown.hidden = !open;
         trigger.setAttribute("aria-expanded", String(open));
@@ -21,14 +36,14 @@ window.TERRAVELLE_CONFIG = {
     });
     const homeGroup = document.querySelector(".home-dropdown");
     homeGroup.addEventListener("pointerenter", (event) => {
-        if (event.pointerType === "mouse") {
+        if (event.pointerType === "mouse" && !compactNavigation.matches) {
             openedByHover = dropdown.hidden;
             setDropdown(true);
         }
     });
     homeGroup.addEventListener("pointerleave", (event) => {
         openedByHover = false;
-        if (event.pointerType === "mouse" && !homeGroup.contains(document.activeElement))
+        if (event.pointerType === "mouse" && !compactNavigation.matches && !homeGroup.contains(document.activeElement))
             setDropdown(false);
     });
     trigger.addEventListener("keydown", (event) => {
@@ -60,9 +75,7 @@ window.TERRAVELLE_CONFIG = {
         if (!event.currentTarget.contains(event.relatedTarget)) setDropdown(false);
     });
     menuToggle.addEventListener("click", () => {
-        const open = menu.classList.toggle("open");
-        menuToggle.setAttribute("aria-expanded", String(open));
-        menuToggle.setAttribute("aria-label", open ? "Close navigation" : "Open navigation");
+        setMenu(!menu.classList.contains("open"));
     });
     document.addEventListener("keydown", (event) => {
         if (event.key !== "Escape") return;
@@ -70,9 +83,7 @@ window.TERRAVELLE_CONFIG = {
             setDropdown(false);
             trigger.focus();
         } else if (menu.classList.contains("open")) {
-            menu.classList.remove("open");
-            menuToggle.setAttribute("aria-expanded", "false");
-            menuToggle.setAttribute("aria-label", "Open navigation");
+            setMenu(false);
             menuToggle.focus();
         }
     });
@@ -80,7 +91,8 @@ window.TERRAVELLE_CONFIG = {
     const updateThemeLabel = () => {
         const dark = document.documentElement.dataset.theme === "dark";
         themeButton.setAttribute("aria-label", `Switch to ${dark ? "light" : "dark"} mode`);
-        themeButton.innerHTML = `<svg class="icon" aria-hidden="true"><use href="../assets/icons/lucide.svg#${dark ? "sun" : "moon"}"></use></svg>`;
+        const icons = new URL("../icons/lucide.svg", document.querySelector('script[src$="/main.js"]').src);
+        themeButton.innerHTML = `<svg class="icon" aria-hidden="true"><use href="${icons.href}#${dark ? "sun" : "moon"}"></use></svg>`;
     };
     themeButton.addEventListener("click", () => {
         const theme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";

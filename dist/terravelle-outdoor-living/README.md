@@ -4,7 +4,7 @@ A complete, static HTML outdoor furniture and showroom enquiry template. Eleven 
 
 ## Preview
 
-Run `npm start`, then open **http://localhost:4173**. The root page redirects to `pages/index.html`. You can also open `pages/index.html` directly; all runtime assets are local, and no HTML partials are fetched.
+Run `npm start`, then open **http://localhost:4173**. The root page displays Homepage 1 directly. You can also open `pages/index.html` directly; all runtime assets are local, and no HTML partials are fetched. After editing Homepage 1, run `node scripts/sync-home.cjs` to update the root page.
 
 ## Customize
 
