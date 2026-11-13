@@ -320,6 +320,10 @@ p {
     align-items: center;
 }
 .header-cta {
+    flex-shrink: 0;
+    white-space: nowrap;
+    justify-content: center;
+    text-align: center;
     font-size: 14px;
     padding-inline: 15px;
     min-height: 44px;

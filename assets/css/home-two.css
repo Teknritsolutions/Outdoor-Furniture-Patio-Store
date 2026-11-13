@@ -173,3 +173,19 @@ body[data-page="index-2"] .closing .input-action {
         margin-top: 12px;
     }
 }
+
+/* Keep the full-width hero content centered within the photograph. */
+body[data-page="index-2"] .photo-hero .hero-grid {
+    margin-inline: auto;
+    min-height: 0;
+}
+body[data-page="index-2"] .photo-hero .hero-copy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+body[data-page="index-2"] .photo-hero .hero-copy .actions {
+    width: 100%;
+    justify-content: center;
+}

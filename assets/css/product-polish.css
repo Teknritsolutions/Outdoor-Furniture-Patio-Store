@@ -83,3 +83,23 @@ body[data-page="product-details"] .care-panel {
     }
     .care-guide { padding: 22px; }
 }
+
+/* Compact catalogue cards keep product names and shopping controls together. */
+body[data-page="products"] #product-catalog {
+    gap: 24px;
+}
+body[data-page="products"] #product-catalog .product-card {
+    border-radius: 8px;
+    overflow: hidden;
+}
+body[data-page="products"] #product-catalog .product-card > img {
+    aspect-ratio: 4 / 3;
+}
+body[data-page="products"] #product-catalog .product-body {
+    padding: 20px;
+}
+@media (min-width: 1200px) {
+    body[data-page="products"] #product-catalog {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+}
